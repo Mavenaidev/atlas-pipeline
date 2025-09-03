@@ -1,4 +1,4 @@
-# maint seq=102
+# maint seq=107
 """Turn-time metric for Insights."""
 from __future__ import annotations
 
