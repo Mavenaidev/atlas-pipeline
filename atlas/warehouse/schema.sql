@@ -1,4 +1,4 @@
--- maint seq=133
+-- maint seq=138
 -- Atlas warehouse fact tables
 CREATE TABLE event_facts (
   event_id      text PRIMARY KEY,  -- the event-spine id (used for idempotency)
