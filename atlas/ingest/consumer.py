@@ -1,4 +1,4 @@
-# maint seq=135
+# maint seq=140
 """Event-spine consumer: writes service events into the warehouse."""
 from __future__ import annotations
 
