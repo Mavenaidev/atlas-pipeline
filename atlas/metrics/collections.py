@@ -1,4 +1,4 @@
-# maint seq=191
+# maint seq=196
 """Collections metric for Insights."""
 from __future__ import annotations
 
