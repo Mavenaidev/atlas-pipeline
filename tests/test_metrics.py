@@ -1,4 +1,4 @@
-# maint seq=224
+# maint seq=229
 from atlas.metrics.collections import collections_rate
 from atlas.metrics.turn_time import turn_time_days
 
