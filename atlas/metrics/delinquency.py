@@ -1,8 +1,7 @@
 """Delinquency metric for Insights.
 
-NOTE: the definition here (share of rent unpaid past due date) does NOT match the
-Bible wiki page (which counts unpaid UNITS, not unpaid AMOUNT) or the product PRD.
-This drift is a known problem — see the metric-canon work.
+Canonical definition lives in atlas.metrics.definitions (ADR-018): share of BILLED
+rent unpaid past the due date, by AMOUNT. The old Bible page (by unit count) is stale.
 """
 from __future__ import annotations
 
